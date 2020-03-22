@@ -1,4 +1,4 @@
-/* SECTION-1 */
+    /* SECTION-1 */
 .section-1{
     background-image: url(../images/header-image.jpg);
     background-repeat: no-repeat;
@@ -75,4 +75,55 @@
     line-height: 12px;
     letter-spacing: 2px;
 }
-/* SECTION-2 */
+    /* SECTION-2 */
+.section-2-div{
+    display: flex;
+}
+.section-2-div-left{
+    width: 50%;
+    padding: 90px 86px 101px 82px;
+}
+.section-2-div-right{
+    width: 50%;           
+}
+.section-2-div-right img{
+    width: 100%;
+}
+.div-left-h{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: lato;
+    font-size: 50px;
+    font-weight: 300;
+    width: 468px;
+    margin-bottom: 24px;
+}
+.div-left-p{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: poppins;
+    font-size: 16px;
+    opacity: 50%;
+    width: 457px;
+    margin-bottom: 64px;
+}
+.div-left-btn{
+    display: flex;
+    justify-content: left;
+    align-items: center;
+}
+.div-left-btn button{
+    font-family: lato;
+    font-weight: bold;
+    font-size: 14px;
+    background-color: #325DFF;
+    border: none;
+    border-radius: 30px;
+    padding: 20px;
+    color: #ffffff;
+    text-transform: uppercase;
+    line-height: 12px;
+    letter-spacing: 2px;
+}
