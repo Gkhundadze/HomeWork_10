@@ -305,3 +305,17 @@
     opacity: 50%;
     margin-bottom: 63px;
 }
+footer{
+    height: 140px;
+    background-color: #325DFF;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+footer p{
+    font-family: poppins;
+    opacity: 52%;
+    color: #fff;
+    font-size: 20px;
+    line-height: 30px;
+}
