@@ -132,7 +132,8 @@
     background-color: #FAFAFA;
     padding: 77px 55px 105px 55px;
 }
-.section-3 h2, p{
+/* აქ შეკითხვა მაქვს */
+.section-3-center{
     text-align: center;
 }
 .section-3 h2{
@@ -206,3 +207,38 @@
     margin-top: 90px;
 }
     /* SECTION-4 */
+.section-4{
+    background-image: url(../images/section-4-image.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 601px;
+    width: 100%;
+    display: flex;
+    justify-content: flex-end;
+    flex-direction: column;
+    align-items: center;
+    padding-bottom: 130px;
+}
+/* აქაც იგივე შეკითხვა
+მესამე სექციაზე პარაგრაფს ადებს
+მეოთხე სექციის სტილებს */
+/* .section-4 h4, p{
+    color: #fff;
+} */
+.section-4 h4{
+    font-size: 35px;
+    font-family: lato;
+    font-weight: 300;
+    color: #fff;
+    line-height: 42px;
+}
+.section-4 p{
+    font-family: poppins;
+    font-size: 16px;
+    color: #fff;
+    line-height: 25px;
+}
+.section-4-bottom-p{
+    margin-bottom: 20px;
+}
