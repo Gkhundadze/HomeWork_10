@@ -1,0 +1,140 @@
+@media (max-width: 1280px) {
+    .section-3-little-box:nth-child(n+3){
+        margin-top: 20px;
+    }
+}
+@media (max-width: 866px) {
+    .section-3-little-box{
+        margin-top: 20px;
+    }
+    .section-3-little-box:first-child{
+        margin-top: 0;
+    }
+    .section-3-little-box{
+        max-width: 700px;
+        width: 100%;
+    }
+    .section-3-little-box-icon{
+        margin: 0 auto;
+    }
+    .section-3little-box-div h5,p{
+        text-align: center;
+        margin-top: 10px;
+    }
+    .section-5-h-4-1{
+        font-size: 27px;
+        line-height: 30px;
+    }
+}
+@media (max-width: 480px){
+    .navigation-li{
+        margin-right: 20px;
+    }
+    .navigation-li:last-child{
+        margin-right: 0;
+    }
+    .section-5-h-4-1{
+        font-size: 15px;
+        line-height: 15px;
+    }
+    .section-5-p-3{
+        font-size: 10px;
+    }
+    body{
+        background-color: chartreuse;
+    }
+    .section-5-right img{
+        height: 100%;;
+    }
+    .section-5-right{
+        height: 220px;
+
+    }
+    .section-5-left{
+        height: 220px;
+        padding: 20px;
+    }
+}
+@media (max-width: 415px){
+    .header{
+        padding: 20px;
+    }
+    .header-title h1{
+        font-size: 50px;
+    }
+    .section-4{
+        height: 420px;
+        padding-bottom: 105px;
+    }
+    .section-4 p{
+        font-size: 8px;
+        line-height: 3px;
+    }
+    .section-5-p-1{
+        font-size: 11px;
+        line-height: 14px;
+    }
+    .section-5-p-2{
+        font-size: 11px;
+        line-height: 14px;
+    }
+    .div-left-h{
+        font-size: 18px;
+    }
+    .div-left-p{
+        font-size: 12px;
+        margin-bottom: 5px;
+    }
+    .div-left-btn button{
+        padding: 10px;
+        font-size: 9px;
+        line-height: 8px;
+        letter-spacing: 1px;
+    }
+    .section-2-div {
+        height: 196px;
+    }
+    .section-3 h2{
+        margin-bottom: 0;
+        font-size: 30px;
+    }
+    .section-3 p{
+        font-size: 11px;
+    }
+    .section-3-div-box-1{
+        margin-top: 25px;
+    }
+    .section-3-little-box{
+        height: 256px;
+    }
+    .section-3{
+        padding: 40px 55px 29px 55px;
+    }
+    .section-2-div-left {
+        width: 50%;
+        padding: 10px;
+    }
+    .section-5-h-4 {
+        line-height: 19px;
+        margin-top: 10px;
+        font-size: 29px;
+    }
+    .section-5-p-2{
+        margin-bottom: 35px;
+    } 
+    .section-5-p-3{
+        margin-top: 2px;
+        line-height: 15px;
+    }
+    .section-5-p-4{
+        font-size: 11px;
+        line-height: 16px;
+        margin-bottom: 16px;
+    }
+    footer{
+        height: 90px;
+    }
+    footer p{
+        font-size: 12px;
+    }
+}
