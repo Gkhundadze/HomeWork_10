@@ -55,12 +55,23 @@
         padding: 20px;
     }
 }
+@media (max-width: 564px){
+    .header-title h1{
+        font-size: 72px;
+    }
+}
 @media (max-width: 415px){
+    .header p{
+        font-size: 20px;
+    }
     .header{
         padding: 20px;
     }
     .header-title h1{
         font-size: 50px;
+    }
+    .navigation-li{
+        margin-right: 10px;
     }
     .section-4{
         height: 420px;
@@ -136,5 +147,66 @@
     }
     footer p{
         font-size: 12px;
+    }
+}
+@media (max-width: 320px){
+    .section-2-div{
+        height: 150px;
+    }
+    .div-left-h{
+        margin-bottom: 3px;
+        text-align: center;
+        font-size: 10px;
+    }
+    .section-3little-box-div{
+        margin-top: 3px;
+    }
+    .div-left-btn button{
+        padding: 2px;
+        font-size: 6px;
+        line-height: 6px;
+    }
+    .section-3little-box-div h5, p{
+        margin-top: 2px;
+    }
+    .section-2-div-left{
+        padding: 2px;
+    }
+    .section-3{
+        padding: 33px 12px 13px 12px;
+    }
+    .section-3 h2{
+        font-size: 24px;
+    }
+    .section-3 p{
+        font-size: 10px;
+    }
+    .section-3-little-box h5{
+        margin-bottom: 15px;
+    }
+    .section-3-little-box {
+        height: 240px;
+    }
+    .section-3-little-box p{
+        line-height: 13px;
+    }
+    .section-5-left {
+        height: 220px;
+        padding: 9px;
+    }
+    .section-5-p-4{
+        margin-bottom: 13px;
+    }
+    .div-left-btn {
+        justify-content: center;
+    }
+    footer {
+        height: 60px;
+    }
+    footer p {
+        font-size: 10px;
+    }
+    .section-5-h-4-1{
+        text-align: center;
     }
 }
