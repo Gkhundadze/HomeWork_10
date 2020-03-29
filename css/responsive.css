@@ -45,3 +45,35 @@
         height: 130px;
     }
 }
+@media (max-width:768px){
+    .section-2-div{
+        display: block;
+    }   
+    .section-2-div-left{
+        width: 100%;
+        padding: 55px;
+    }   
+    .section-2-div-right{
+        width: 100%;
+    }  
+    .div-left-h{
+        text-align: center;
+        max-width: none;
+    }
+    .div-left-p{
+        text-align: center;
+        max-width: none;
+    }
+    .section-3{
+        padding: 40px;
+    }
+    .section-3-div-box-1{
+        margin-top: 50px;
+    }
+    .section-3-little-box:nth-child(2){
+        margin-top: 40px;
+    }
+    footer{
+        height: 110px;
+    }
+}
