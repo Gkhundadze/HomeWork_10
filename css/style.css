@@ -294,6 +294,7 @@
 }
 .section-5-right img{
     width: 100%;
+    height: 100%;
 }
 .section-5-h-4-1{
     font-size: 50px;
@@ -328,4 +329,43 @@ footer p{
     color: #fff;
     font-size: 20px;
     line-height: 30px;
+}
+footer{
+    height: 110px;
+    position: relative;
+}
+.social{
+    display: flex;
+    flex-direction: row;
+    height: 100%;
+    font-size: 50px;
+    padding-top: 4px;
+    position: absolute;
+    bottom: 0px;
+    right: 14px;
+    align-items: center;
+}
+.social a{
+    margin-right: 15px;
+}
+.div-bar{
+    display: none;
+}
+.icon-coffee:before{
+    font-family: icomoon;
+    color: #fff;
+    font-size: 35px;
+}
+.icon-umbrella:before{
+    font-family: icomoon2;
+    color: #fff;
+    font-size: 35px;
+}
+.flex-wor-rev{
+    flex-direction: row-reverse;
+}
+.section-3little-box-div{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }

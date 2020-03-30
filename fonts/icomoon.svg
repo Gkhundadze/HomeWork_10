@@ -1,0 +1,40 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
+<metadata>
+Created by FontForge 20190801 at Mon Mar 30 05:34:11 2020
+ By Jimmy Wärting
+</metadata>
+<defs>
+<font id="icomoon" horiz-adv-x="0" >
+  <font-face 
+    font-family="icomoon"
+    font-weight="400"
+    font-stretch="normal"
+    units-per-em="1024"
+    panose-1="0 0 0 0 0 0 0 0 0 0"
+    ascent="960"
+    descent="-64"
+    bbox="0 -64 768 960"
+    underline-thickness="0"
+    underline-position="0"
+    unicode-range="U+0001-FFFD"
+  />
+<missing-glyph horiz-adv-x="1024" 
+ />
+    <glyph glyph-name=".notdef" unicode="&#xfffd;" horiz-adv-x="1024" 
+ />
+    <glyph glyph-name="glyph1" 
+d="M0 0v0v0v0z" />
+    <glyph glyph-name="glyph1" 
+d="M0 0v0v0v0z" />
+    <glyph glyph-name="uni0001" 
+d="M0 0v0v0v0z" />
+    <glyph glyph-name="space" unicode=" " horiz-adv-x="512" 
+d="M0 0v0v0v0z" />
+    <glyph glyph-name="uniE900" unicode="&#xe900;" horiz-adv-x="768" 
+d="M704 576v0v-573v-0.5v-0.5q0 -27 -18.5 -46t-45.5 -20v0h-512q-27 1 -45.5 20t-18.5 46v0.5v0.5v0v573q-26 0 -45 25t-19 60v85q0 36 19 61t45 25h640q26 0 45 -25t19 -60v-85q0 -36 -19 -61t-45 -25v0zM128 30q0 -12 9 -21t22 -9h0.5h0.5v0h448v0v0q13 0 22.5 9t9.5 21
+v0v226h-64q0 -79 -56 -135.5t-136 -56.5t-136 56.5t-56 135.5v0h-64v-226zM512 256q0 53 -37.5 90.5t-90.5 37.5t-90.5 -37.5t-37.5 -90.5t37.5 -90.5t90.5 -37.5v0q53 0 90.5 37.5t37.5 90.5v0v0zM128 320h75q21 56 70 92t111 36t111 -35.5t69 -91.5l1 -1h75v256h-512v-256
+zM672 768h-576q-13 0 -22.5 -19t-9.5 -45t9.5 -45t22.5 -19h576q13 0 22.5 19t9.5 45t-9.5 45t-22.5 19zM608 896h-448q-13 0 -22.5 9.5t-9.5 22.5t9.5 22.5t22.5 9.5v0h448q13 0 22.5 -9.5t9.5 -22.5t-9.5 -22.5t-22.5 -9.5v0z" />
+  </font>
+</defs></svg>
